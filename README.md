@@ -1,2 +1,2 @@
-# Course material for CSC-315 
+# Archived course material for CSC 314
 
